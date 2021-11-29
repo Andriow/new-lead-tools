@@ -28,6 +28,9 @@
 - [Conhecendo cada pessoa do time](#conhecendo-cada-pessoa-do-time)
   - [MBTI](#mbti)
   - [Inteligência positiva](#inteligência-positiva)
+- [Feedback](#feedback-2)
+  - [Feedback formal](#feedback-formal)
+  - [Feedback informal](#feedback-informal)
 
 # New Lead Tools
 Ferramentas para ajudar a direcionar o dia a dia de um novo líder
@@ -227,3 +230,23 @@ O teste foi proposto por *Shirzad Chamine* no livro *Inteligência positiva: Por
 No livro o autor indica que todos nós temos sabotadores internos, que são atitudes que realizamos de forma inconsciente e que nos impedem de crescermos nas nossas carreiras e na nossa vida pessoal, junto ao livro o autor também propõe um [Teste de Inteligência Positiva](https://www.companhiadasletras.com.br/testeinteligenciapositiva/) que retorna como resultado quais são os sabotadores principais de cada pessoa, e no livro também indica como lidar com esses sabotadores.
 
 Nesse aspecto como liderança é importante indicar que o teste é para autoconhecimento, e o papel do líder é, caso o liderado tenha interesse, de ajudar o liderado a perceber quando um determinado sabotador esteve presente, e como lidar com essa situação.
+
+# Feedback
+
+O feedback é uma das principais ferramentas de liderança, pois é com o uso dela que é possível realizar ajustes menores em comportamentos e criar uma cultura de reconhecimento constante, normalmente nas empresas temos dois momentos de feedback bastante presentes, o feedback formal e o informal.
+
+## Feedback formal
+
+O feedback formal é aquele que a empresa possui de forma institucional, normalmente havendo a necessidade de uma reunião individual com o liderado e muito provavelmente o resultado desse feedback impacta em questões de meritocracia (metas, programa de distribuição de lucros etc.). 
+
+**Na minha opinião** essa é uma formalidade, e nada do que for dito nela deve ser surpresa para o liderado, pois não costuma ser efetivo lembrar de uma situação meses após a sua ocorrência para se corrigir algo ou parabenizar. 
+
+O feedback deve ser feito de forma pontual conforme necessário, e na reunião de feedback formal apenas monta uma retrospectiva com tudo que ocorreu e que já foi pontuado durante o tempo de trabalho, inclusive ajudando assim a reduzir a pressão por ser um evento formal da empresa.
+## Feedback informal
+
+A ferramenta do feedback informal é a capacidade de reconhecer o trabalho do liderado durante o desenvolvimento do mesmo, ou seja, a cada situação que ocorrer perceber o ocorrido e já realizar uma conversa para tal, pode ser feito dentro da reunião periódica individual com o liderado ou em uma conversa extraordinária para tratar apenas sobre o assunto.
+
+É importante lembrar que feedback não são apenas itens negativos, ou pontos em que o colaborador deva melhorar. **É muito importante** que também sejam realizados feedbacks positivos, a cada ponto que alguém se destacou durante a semana ou realizou algo além do esperado, indicar que isso está sendo percebido e incentivar que aquele determinado comportamento continue a ocorrer. 
+
+Esse tipo de feedback constante facilita que não se acumule coisas negativas, o que torna o feedback formal mais pesado, e ajuda a manter o time motivado ao perceber que a liderança está próxima e gostando do que está sendo desenvolvido e da forma com que está sendo desenvolvido.
+
