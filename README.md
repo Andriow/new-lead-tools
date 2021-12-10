@@ -3,6 +3,7 @@
   - [Visão sistêmica](#visão-sistêmica)
   - [Orientação estratégica](#orientação-estratégica)
   - [Resiliência](#resiliência)
+  - [Avaliação técnica](#avaliação-técnica)
 - [Reuniões individuais](#reuniões-individuais)
   - [Pergunta reflexivas](#pergunta-reflexivas)
     - [Atualização contínua](#atualização-contínua)
@@ -13,6 +14,7 @@
     - [Plano de desenvolvimento profissional](#plano-de-desenvolvimento-profissional)
     - [Business model you](#business-model-you)
     - [Visão de objetivos profissionais](#visão-de-objetivos-profissionais)
+    - [Acompanhamento do atingimento de objetivos profissionais](#acompanhamento-do-atingimento-de-objetivos-profissionais)
   - [Perguntas situacionais](#perguntas-situacionais)
     - [Follow up de projetos](#follow-up-de-projetos)
     - [Feedback](#feedback)
@@ -62,6 +64,15 @@ A resiliência é a capacidade que uma pessoa tem de não desistir, mesmo diante
 - Como essa pessoa reagiu nesse momento?
 - O que mais você precisou fazer para convencer a pessoa?
 - Como essa pessoa reagiu quando você fez isso também?
+
+## Avaliação técnica
+Para a avaliação técnica venho tentando uma série de alternativas:
+- Provas técnicas com desenvolvimento de desafio parecido com o que a pessoa irá encontrar no dia a dia.
+  - Essa é uma abordagem que funciona bastante, você consegue pegar bastante da forma com que a pessoa trabalha, porém tem um ponto que a adesão a ela está sendo cada vez menor, com os candidatos abandonando o processo devido a isso.
+- Desenvolvimento de questões em tempo real
+  - Essa abordagem também é boa no sentido de entender a forma de raciocínio da pessoa, porém ela demanda muito tempo do entrevistador, e muitas pessoas já estão nervosas de estar em um processo seletivo, e ao solicitar que ela desenvolva um código na hora pode gerar um bloqueio na pessoa, e ela não conseguir mostrar do que realmente é capaz.
+- Code Review
+  - Essa abordagem eu ainda não testei, mas estou desenvolvendo ela no sentido de pegar um código com alguns erros, expor para o candidato, e pedir para ele realizar o code review desse código, explicando o que está acontecendo no código, identificando os potenciais erros, e dando sugestões de como melhorar aquele determinado código. Dessa maneira a pessoa não fica bloqueada na hora de desenvolver e acredito poder pegar o senso crítico da pessoa a partir do que ela está falando e entendendo do código.
 # Reuniões individuais
 
 A Reunião individual com cada liderado é uma ferramenta extremamente poderosa para criar a relação entre o líder e os liderados, pois é o momento em que irá permitir que o líder ajude o liderado em direcionamentos de carreira, e ajude a moldar capacidades comportamentais. 
@@ -161,6 +172,11 @@ Na semana seguinte, com o liderado tendo tempo para refletir, pode começar com 
 - Quem pode te ajudar a atingir esse objetivo?
 - Vamos montar um Business Model You com foco nesse objetivo?
 - O que eu posso fazer para facilitar esse seu objetivo?
+
+### Acompanhamento do atingimento de objetivos profissionais
+Uma vez definidos os objetivos profissionais de cada colaborador, é importante de tempos em tempos fazer o colaborador refletir em relação ao quanto ele está evoluindo para atingimento das suas metas.
+Nesse caso o que pode ser utilizado é iniciar a conversa pedindo para que o colaborador relembre seus objetivos e ordene em uma escala de 0 a 10, o quão próximo ele está de atingir cada um dos seus objetivos. 
+Para cada objetivo citado o papel do líder é de buscar entender como ele pode ajudar a atingir aquele determinado objetivo, e como podem ser criadas situações dentro do ambiente de trabalho e dentro do dia a dia do time que facilitem que o profissional atinja seus objetivos.
 ## Perguntas situacionais
 
 ### Follow up de projetos
