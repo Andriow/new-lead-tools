@@ -19,9 +19,11 @@
     - [Follow up de projetos](#follow-up-de-projetos)
     - [Feedback](#feedback)
     - [Alinhamento de expectativas](#alinhamento-de-expectativas)
+    - [Reflexões sobre evolução da empresa](#reflexões-sobre-evolução-da-empresa)
 - [Dinâmicas em grupo](#dinâmicas-em-grupo)
   - [Reforço da visão sistêmica](#reforço-da-visão-sistêmica)
   - [Spotify health check](#spotify-health-check)
+  - [Mapeamento do projeto VUCA](#mapeamento-do-projeto-vuca)
 - [Organização de reuniões e construção de confiança](#organização-de-reuniões-e-construção-de-confiança)
   - [Check in](#check-in)
   - [Contexto](#contexto)
@@ -72,7 +74,7 @@ Para a avaliação técnica venho tentando uma série de alternativas:
 - Desenvolvimento de questões em tempo real
   - Essa abordagem também é boa no sentido de entender a forma de raciocínio da pessoa, porém ela demanda muito tempo do entrevistador, e muitas pessoas já estão nervosas de estar em um processo seletivo, e ao solicitar que ela desenvolva um código na hora pode gerar um bloqueio na pessoa, e ela não conseguir mostrar do que realmente é capaz.
 - Code Review
-  - Essa abordagem eu ainda não testei, mas estou desenvolvendo ela no sentido de pegar um código com alguns erros, expor para o candidato, e pedir para ele realizar o code review desse código, explicando o que está acontecendo no código, identificando os potenciais erros, e dando sugestões de como melhorar aquele determinado código. Dessa maneira a pessoa não fica bloqueada na hora de desenvolver e acredito poder pegar o senso crítico da pessoa a partir do que ela está falando e entendendo do código.
+  - Essa abordagem tem se tornando a minha favorita durante o processo de entrevista, com ela eu desenvolvi um código, que eu tenho noção de quais pontos existe uma possível melhoria, e então solicito para que o candidato me explique o que o código está fazendo e faça alguma sugestão de melhorias, a depender do que o candidato responde, é possível entender o nível de senioridade dele, primeiro no entendimento de código desenvolvido por outra pessoa, e depois nos pontos de sugestão de melhoria. Vem se demonstrando a forma mais simples de realizar a avaliação técnica dos candidatos.
 # Reuniões individuais
 
 A Reunião individual com cada liderado é uma ferramenta extremamente poderosa para criar a relação entre o líder e os liderados, pois é o momento em que irá permitir que o líder ajude o liderado em direcionamentos de carreira, e ajude a moldar capacidades comportamentais. 
@@ -175,7 +177,9 @@ Na semana seguinte, com o liderado tendo tempo para refletir, pode começar com 
 
 ### Acompanhamento do atingimento de objetivos profissionais
 Uma vez definidos os objetivos profissionais de cada colaborador, é importante de tempos em tempos fazer o colaborador refletir em relação ao quanto ele está evoluindo para atingimento das suas metas.
+
 Nesse caso o que pode ser utilizado é iniciar a conversa pedindo para que o colaborador relembre seus objetivos e ordene em uma escala de 0 a 10, o quão próximo ele está de atingir cada um dos seus objetivos. 
+
 Para cada objetivo citado o papel do líder é de buscar entender como ele pode ajudar a atingir aquele determinado objetivo, e como podem ser criadas situações dentro do ambiente de trabalho e dentro do dia a dia do time que facilitem que o profissional atinja seus objetivos.
 ## Perguntas situacionais
 
@@ -190,6 +194,12 @@ Para cada objetivo citado o papel do líder é de buscar entender como ele pode 
 ### Alinhamento de expectativas
 - O que você espera de mim como líder?
 - Como você espera que eu possa te ajudar?
+
+### Reflexões sobre evolução da empresa
+- Quais os elementos dos negócios da empresa que você acredita que o nosso time não está acompanhando devidamente?
+- Quais fatores disruptores você acredita que o nosso time já identificou, e apesar de sabermos do impacto disso no mercado, não estamos nos mobilizando para tal?
+- Por que você acredita que estamos tendo essa dificuldade na implantação desses fatores?
+- Como podemos abordar para que não haja resistência sobre esses fatores?
 # Dinâmicas em grupo
 
 ## Reforço da visão sistêmica
@@ -212,7 +222,26 @@ O papel do líder nessa dinâmica é de após todos responderem à questão, dem
 É uma ferramenta simples e divertida, desenvolvida pelo spotify e utilizada por várias outras gigantes da tecnologia. O objetivo dela é criar um panorama macro da saúde da equipe, levantar algumas ações e responsáveis por cada ação. Você poderá substituir facilmente sua retrospectiva tradicional por esta ferramenta.
 
 Para mais informações sobre essa dinâmica podem acessar o site do qual extraí o texto a cima, [Zup - Spotify Health Check](https://www.zup.com.br/blog/health-check-saude-da-sua-equipe), ou no próprio [post em que o Spotify tornou a ferramenta pública](https://engineering.atspotify.com/2014/09/16/squad-health-check-model/).
+## Mapeamento do projeto VUCA
+O mundo está cada vez mais VUCA, que é o acrônimo de Volatility Uncertanty Complexity and Ambiquity. E parte importante do processo de trabalho é entender o que da nossa realidade e do nosso dia a dia está dentro dessas 4 palavras. Então nesse ponto é interessante realizar uma tarefa de mapeamento, e entender a visão de todos do time sobre essas questões que englobam os quatro fatores citados inicialmente:
+- Volatilidade 
+  - O que é volátil no nosso dia a dia? 
+  - Do que nós estamos fazendo, em quanto tempo esperamos que haja algum tipo de mudança?
+  - O que eu acredito que possa se tornar mais volátil no futuro recente?
+- Incerteza
+  - Para onde nós deveríamos seguir?
+  - Sobre o que nós não temos certeza atualmente?
+  - Como tratar o projeto com essa incerteza? Há algo que possamos fazer para reduzir essa incerteza? 
+- Complexidade
+  - Qual a complexidade disso que estamos desenvolvendo?
+  - Estamos confortáveis em lidar com algo dessa complexidade?
+- Ambiguidade
+  - Será que o que estamos fazendo é algo perene?
+  - A tecnologia que queremos utilizar veio para ficar? 
 
+Com essas perguntas respondidas, é possível verificar o quão cada pessoa do time está confortável com o projeto, e com isso pode fazer um segundo passo que é o desenho das fortalezas e das fraquezas do projeto. 
+
+Com base em tudo que foi discutido anteriormente cada membro do time deve elencar uma fraqueza e uma fortaleza do projeto proposto, aliado a um plano de ação de como mitigar a fraqueza e outro de como potencializar a fortaleza.
 # Organização de reuniões e construção de confiança
 Uma das situações mais importantes para um líder novo, é a necessidade de conquistar a confiança do seu time, e uma caraterística do Brasileiro, é o fato de ser bastante relacional, então quanto mais ele conhece a liderança, e mais ele sente que a liderança o conhece, mais ele confia no líder. Esse comportamento pode variar entre culturas diferentes, então ao lidar com times internacionais, vale a pena entender qual a cultura da região para poder estabelecer uma relação de confiança mais assertiva.
 
@@ -265,4 +294,3 @@ A ferramenta do feedback informal é a capacidade de reconhecer o trabalho do li
 É importante lembrar que feedback não são apenas itens negativos, ou pontos em que o colaborador deva melhorar. **É muito importante** que também sejam realizados feedbacks positivos, a cada ponto que alguém se destacou durante a semana ou realizou algo além do esperado, indicar que isso está sendo percebido e incentivar que aquele determinado comportamento continue a ocorrer. 
 
 Esse tipo de feedback constante facilita que não se acumule coisas negativas, o que torna o feedback formal mais pesado, e ajuda a manter o time motivado ao perceber que a liderança está próxima e gostando do que está sendo desenvolvido e da forma com que está sendo desenvolvido.
-
