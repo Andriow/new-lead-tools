@@ -24,6 +24,7 @@
   - [Reforço da visão sistêmica](#reforço-da-visão-sistêmica)
   - [Spotify health check](#spotify-health-check)
   - [Mapeamento do projeto VUCA](#mapeamento-do-projeto-vuca)
+  - [GROK](#grok)
 - [Organização de reuniões e construção de confiança](#organização-de-reuniões-e-construção-de-confiança)
   - [Check in](#check-in)
   - [Contexto](#contexto)
@@ -242,6 +243,14 @@ O mundo está cada vez mais VUCA, que é o acrônimo de Volatility Uncertanty Co
 Com essas perguntas respondidas, é possível verificar o quão cada pessoa do time está confortável com o projeto, e com isso pode fazer um segundo passo que é o desenho das fortalezas e das fraquezas do projeto. 
 
 Com base em tudo que foi discutido anteriormente cada membro do time deve elencar uma fraqueza e uma fortaleza do projeto proposto, aliado a um plano de ação de como mitigar a fraqueza e outro de como potencializar a fortaleza.
+
+## GROK
+O GROK é um jogo com o objetivo de desenvolver a empatia dentro do time, possui mais de 20 modos de jogar diferentes, mas na sua essência se trata de 75 cartas de sentimentos e 75 cartas de necessidades.
+![](img/grok.png)
+Uma forma de jogar o GROK é realizar um sorteio das cartas, e a pessoa da rodada sorteia uma carta, e tenta explicar um momento de sua vida no qual ele teve aquela necessidade atendida ou não, ou um momento em que ele sentiu aquele determinado sentimento, porém ele não pode utilizar a palavra da carta ou nenhum sinônimo para ela. Nesse momento as outras pessoas da dinâmica tentarão adivinhar qual a palavra da carta, e o participante da rodada irá dar dicas dizendo se está quente ou frio as tentativas dos colegas de adivinharem a palavra.
+
+Esse jogo é bastante poderoso para fortalecer os vínculos entre os membros do time, além de ser uma forma de conhecer mais a fundo cada pessoa com quem se trabalha junto. O jogo pode ser comprado no [site oficial](https://colabcolibri.com/loja/jogo-grok/#sobre). 
+
 # Organização de reuniões e construção de confiança
 Uma das situações mais importantes para um líder novo, é a necessidade de conquistar a confiança do seu time, e uma caraterística do Brasileiro, é o fato de ser bastante relacional, então quanto mais ele conhece a liderança, e mais ele sente que a liderança o conhece, mais ele confia no líder. Esse comportamento pode variar entre culturas diferentes, então ao lidar com times internacionais, vale a pena entender qual a cultura da região para poder estabelecer uma relação de confiança mais assertiva.
 
