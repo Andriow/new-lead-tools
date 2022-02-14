@@ -25,6 +25,7 @@
   - [Spotify health check](#spotify-health-check)
   - [Mapeamento do projeto VUCA](#mapeamento-do-projeto-vuca)
   - [GROK](#grok)
+  - [BIG T](#big-t)
 - [Organização de reuniões e construção de confiança](#organização-de-reuniões-e-construção-de-confiança)
   - [Check in](#check-in)
   - [Contexto](#contexto)
@@ -36,6 +37,10 @@
 - [Feedback](#feedback-2)
   - [Feedback formal](#feedback-formal)
   - [Feedback informal](#feedback-informal)
+- [Avaliação de desempenho](#avaliação-de-desempenho)
+  - [Conhecimentos habilidades de atitudes (CHA)](#conhecimentos-habilidades-de-atitudes-cha)
+  - [9box](#9box)
+- [Definições de trilhas de aprendizado](#definições-de-trilhas-de-aprendizado)
 
 # New Lead Tools
 Ferramentas para ajudar a direcionar o dia a dia de um novo líder
@@ -257,6 +262,18 @@ Uma adaptação para utilização no ambiente remoto pode ser com a lista de nec
 
 Na qual cada pessoa na sua rodada irá escolher uma necessidade e realizar a dinâmica indicada a cima, em que os outros participantes tem um tempo para tentar adivinhar qual a necessidade do colega. É interessante também ter um timebox de no máximo 10 minutos por rodada para que seja controlado o tempo total da dinâmica.
 
+## BIG T
+Atualmente tem se falado muito do profissional em T, em que o profissional ao mesmo tempo é generalista em uma série de assuntos, porém é especialista em um determinado grupo de assuntos. Existem vários sites que falam a respeito desse tipo de profissional, como [esse artivo da Zendesk](https://www.zendesk.com.br/blog/t-shaped-professional/) e [este da Draft](https://www.projetodraft.com/verbete-draft-o-que-e-profissional-t-shaped/).
+
+Com base nessa teoria é possível criar uma dinâmica de team form, na qual cada pessoa do time tenha como conhecer os colegas. 
+
+Essa é uma dinâmica bastante demorada, pois em um primeiro momento precisa de um tempo de autoconhecimento, em que cada membro do time irá desenhar o seu T-shape, no qual na horizontal irá colocar temas nos quais ele se considera generalista, ou temas sobre os quais ele se sentiria confortável para ter uma conversa de bar. E na vertical os temas que ele se considera especialista, ou temas que ele teria tranquilidade para ensinar outras pessoas, pois já gastou bastante tempo estudando sobre.
+
+Depois desse período introspectivo e de reflexão, vale a pena abrir para que todos os membros do time compartilhem e falem sobre si mesmos, e que os outros também façam seus comentários, essa é uma parte que leva bastante tempo também, na última vez que executei essa dinâmica foram necessários três encontros de 1 hora cada para finalizar a dinâmica em um time de 7 pessoas.
+
+Deixo como um exemplo o meu próprio T-SHAPE abaixo:
+![](img/t-shape.png)
+
 # Organização de reuniões e construção de confiança
 Uma das situações mais importantes para um líder novo, é a necessidade de conquistar a confiança do seu time, e uma caraterística do Brasileiro, é o fato de ser bastante relacional, então quanto mais ele conhece a liderança, e mais ele sente que a liderança o conhece, mais ele confia no líder. Esse comportamento pode variar entre culturas diferentes, então ao lidar com times internacionais, vale a pena entender qual a cultura da região para poder estabelecer uma relação de confiança mais assertiva.
 
@@ -309,3 +326,11 @@ A ferramenta do feedback informal é a capacidade de reconhecer o trabalho do li
 É importante lembrar que feedback não são apenas itens negativos, ou pontos em que o colaborador deva melhorar. **É muito importante** que também sejam realizados feedbacks positivos, a cada ponto que alguém se destacou durante a semana ou realizou algo além do esperado, indicar que isso está sendo percebido e incentivar que aquele determinado comportamento continue a ocorrer. 
 
 Esse tipo de feedback constante facilita que não se acumule coisas negativas, o que torna o feedback formal mais pesado, e ajuda a manter o time motivado ao perceber que a liderança está próxima e gostando do que está sendo desenvolvido e da forma com que está sendo desenvolvido.
+
+# Avaliação de desempenho
+
+## Conhecimentos habilidades de atitudes (CHA)
+![](img/CHA.png)
+## 9box
+
+# Definições de trilhas de aprendizado
