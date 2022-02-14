@@ -251,6 +251,12 @@ Uma forma de jogar o GROK é realizar um sorteio das cartas, e a pessoa da rodad
 
 Esse jogo é bastante poderoso para fortalecer os vínculos entre os membros do time, além de ser uma forma de conhecer mais a fundo cada pessoa com quem se trabalha junto. O jogo pode ser comprado no [site oficial](https://colabcolibri.com/loja/jogo-grok/#sobre). 
 
+Uma adaptação para utilização no ambiente remoto pode ser com a lista de necessidades a baixo:
+
+![](img/grok2.png)
+
+Na qual cada pessoa na sua rodada irá escolher uma necessidade e realizar a dinâmica indicada a cima, em que os outros participantes tem um tempo para tentar adivinhar qual a necessidade do colega. É interessante também ter um timebox de no máximo 10 minutos por rodada para que seja controlado o tempo total da dinâmica.
+
 # Organização de reuniões e construção de confiança
 Uma das situações mais importantes para um líder novo, é a necessidade de conquistar a confiança do seu time, e uma caraterística do Brasileiro, é o fato de ser bastante relacional, então quanto mais ele conhece a liderança, e mais ele sente que a liderança o conhece, mais ele confia no líder. Esse comportamento pode variar entre culturas diferentes, então ao lidar com times internacionais, vale a pena entender qual a cultura da região para poder estabelecer uma relação de confiança mais assertiva.
 
