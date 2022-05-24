@@ -15,6 +15,7 @@
     - [Business model you](#business-model-you)
     - [Visão de objetivos profissionais](#visão-de-objetivos-profissionais)
     - [Acompanhamento do atingimento de objetivos profissionais](#acompanhamento-do-atingimento-de-objetivos-profissionais)
+    - [Definição de Sucesso](#definição-de-sucesso)
   - [Perguntas situacionais](#perguntas-situacionais)
     - [Follow up de projetos](#follow-up-de-projetos)
     - [Feedback](#feedback)
@@ -187,6 +188,21 @@ Uma vez definidos os objetivos profissionais de cada colaborador, é importante 
 Nesse caso o que pode ser utilizado é iniciar a conversa pedindo para que o colaborador relembre seus objetivos e ordene em uma escala de 0 a 10, o quão próximo ele está de atingir cada um dos seus objetivos. 
 
 Para cada objetivo citado o papel do líder é de buscar entender como ele pode ajudar a atingir aquele determinado objetivo, e como podem ser criadas situações dentro do ambiente de trabalho e dentro do dia a dia do time que facilitem que o profissional atinja seus objetivos.
+
+### Definição de Sucesso
+Para criar um ambiente de alta confiança com o liderado, uma das formas de fazer isso é construir uma visão de sucesso, entender junto ao liderado o que é sucesso para ele, e demonstrar que essa visão de sucesso que ele possui está ligado ao que a companhia considera sucesso também. 
+
+Uma forma simples de fazer isso é começar com o liderado dentro da reunião individual a construir a definição de sucesso, e para isso o gestor também precisa ter bastante claro para si a respostas das perguntas, que são bastante pessoais, e ao provocar o liderado a responder, o gestor também deve compartilhar com o liderado as suas respostas, pois assim aumenta o nível de confiança do liderado no gestor.
+
+Algumas perguntas para guiar a conversa:
+
+- O que você considera como sucesso no seu ambito pessoal?
+- O que você considera como sucesso na sua posição de trabalho atual? 
+- Como você definiria que sua carreira foi bem sucedida? 
+- O que você acredita que seria sucesso para o time em que você está envolvido hoje?
+- O que você acredita que seria sucesso para a empresa como um todo? 
+
+Essas perguntas tendem a gerar uma identidade comum, e a partir do momento em que o colaborador entende que a visão dele faz sentido com a visão da empresa, ele pode passar a visualizar como fazendo parte de uma forma mais profunda da empresa, gerando como consequência inclusive uma maior retenção de funcionários. 
 ## Perguntas situacionais
 
 ### Follow up de projetos
