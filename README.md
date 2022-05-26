@@ -27,6 +27,7 @@
   - [Mapeamento do projeto VUCA](#mapeamento-do-projeto-vuca)
   - [GROK](#grok)
   - [BIG T](#big-t)
+  - [Speedback STAR Positivo](#speedback-star-positivo)
 - [Organização de reuniões e construção de confiança](#organização-de-reuniões-e-construção-de-confiança)
   - [Check in](#check-in)
   - [Contexto](#contexto)
@@ -289,6 +290,14 @@ Depois desse período introspectivo e de reflexão, vale a pena abrir para que t
 
 Deixo como um exemplo o meu próprio T-SHAPE abaixo:
 ![](img/t-shape.png)
+
+## Speedback STAR Positivo
+Como uma forma de aumentar o respeito e engajamento dentro do time, é possível realizar uma rodada de speedback STARR. Nela consiste em cada membro do time realizar um feedback para seu colega baseado no contexto STAR (Situação - Tarefa - Ação - Resultado). 
+É importante dar um tempo de planejamento, pode ser de uma semana para outra, por exemplo, pois cada membro do time deverá ter anotado para todos os outros.
+
+Como é um ciclo de feedbacks positivos, a provocação é de pensarmos em uma situação em que aquela pessoa teve um destaque, demonstrar qual tarefa foi realizada, qual ação dessa pessoa que teve maior relevância no cumprimento da tarefa e qual foi o resultado obtido pela tarefa.
+
+É importante salientar que o resultado obtido pode não ser apenas algo do dia a dia de trabalho, mas se algo gereou maior reconhecimento para o time, ou se em algum momento alguém se sentiu acolhido, se alguém se sentiu defendido, ou qualquer outro sentimento, essa situação também pode ser citada como um feedback, afinal sempre é bom saber que fez o bem a outra pessoa.
 
 # Organização de reuniões e construção de confiança
 Uma das situações mais importantes para um líder novo, é a necessidade de conquistar a confiança do seu time, e uma caraterística do Brasileiro, é o fato de ser bastante relacional, então quanto mais ele conhece a liderança, e mais ele sente que a liderança o conhece, mais ele confia no líder. Esse comportamento pode variar entre culturas diferentes, então ao lidar com times internacionais, vale a pena entender qual a cultura da região para poder estabelecer uma relação de confiança mais assertiva.
