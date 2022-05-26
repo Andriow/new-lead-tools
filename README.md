@@ -28,6 +28,7 @@
   - [GROK](#grok)
   - [BIG T](#big-t)
   - [Speedback STAR Positivo](#speedback-star-positivo)
+  - [Protagonismo dentro do time](#protagonismo-dentro-do-time)
 - [Organização de reuniões e construção de confiança](#organização-de-reuniões-e-construção-de-confiança)
   - [Check in](#check-in)
   - [Contexto](#contexto)
@@ -298,6 +299,19 @@ Como uma forma de aumentar o respeito e engajamento dentro do time, é possível
 Como é um ciclo de feedbacks positivos, a provocação é de pensarmos em uma situação em que aquela pessoa teve um destaque, demonstrar qual tarefa foi realizada, qual ação dessa pessoa que teve maior relevância no cumprimento da tarefa e qual foi o resultado obtido pela tarefa.
 
 É importante salientar que o resultado obtido pode não ser apenas algo do dia a dia de trabalho, mas se algo gereou maior reconhecimento para o time, ou se em algum momento alguém se sentiu acolhido, se alguém se sentiu defendido, ou qualquer outro sentimento, essa situação também pode ser citada como um feedback, afinal sempre é bom saber que fez o bem a outra pessoa.
+
+## Protagonismo dentro do time
+Uma vez realizada a tarefa de [Desenvolvimento de protagonismo](#desenvolvimento-de-protagonismo) realizado de maneira individual, é possível trazer para o grupo uma dinâmica bacana.
+
+Nessa dinâmica cada pessoa trás a sua definição de o que é ser um protagonista dentro do time. 
+
+Em um segundo momento solicitar para que cada pessoa extraia palavras chaves que definam protagonismo com base em todas as definições, e para finalizar essa parte da dinâmica realizar uma votação para definir quais são as três palavras chaves que mais definem protagonismo para aquele time. 
+
+Um terceiro momento para essa dinâmica cada membro do time deve falar, baseado nas palavras chaves, quem no último período (aqui pode ser sprint, trimestre, ano, a decisão de quem estiver conduzindo a dinâmica) foi o maior protagonista do time, e justificar essa resposta.
+
+Como finalização é muito importante que quem esteja conduzindo a dinâmica deixe claro que todos os que estão no time possam ser sim protagonistas. 
+
+Ao realizar essa dinâmica, se algum membro do time está retraído, ou na sua zona de conforto, não atuando como protagonista, ele não será citado por nenhum colega, e cabe ao gestor saber utilizar desse fato como um motivador, nas reuniões individuais trazer indicações e auxiliar a aquele colaborador a passar a ter as atitudes e as características que o time alinhou como as principais para protagonismo.
 
 # Organização de reuniões e construção de confiança
 Uma das situações mais importantes para um líder novo, é a necessidade de conquistar a confiança do seu time, e uma caraterística do Brasileiro, é o fato de ser bastante relacional, então quanto mais ele conhece a liderança, e mais ele sente que a liderança o conhece, mais ele confia no líder. Esse comportamento pode variar entre culturas diferentes, então ao lidar com times internacionais, vale a pena entender qual a cultura da região para poder estabelecer uma relação de confiança mais assertiva.
