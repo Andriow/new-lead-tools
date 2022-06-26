@@ -40,6 +40,8 @@
 - [Feedback](#feedback-2)
   - [Feedback formal](#feedback-formal)
   - [Feedback informal](#feedback-informal)
+- [Preparação de sucessores](#preparação-de-sucessores)
+  - [Dicas para o processo sucessório](#dicas-para-o-processo-sucessório)
 - [Avaliação de desempenho](#avaliação-de-desempenho)
   - [Conhecimentos habilidades de atitudes (CHA)](#conhecimentos-habilidades-de-atitudes-cha)
   - [9box](#9box)
@@ -365,6 +367,37 @@ A ferramenta do feedback informal é a capacidade de reconhecer o trabalho do li
 É importante lembrar que feedback não são apenas itens negativos, ou pontos em que o colaborador deva melhorar. **É muito importante** que também sejam realizados feedbacks positivos, a cada ponto que alguém se destacou durante a semana ou realizou algo além do esperado, indicar que isso está sendo percebido e incentivar que aquele determinado comportamento continue a ocorrer. 
 
 Esse tipo de feedback constante facilita que não se acumule coisas negativas, o que torna o feedback formal mais pesado, e ajuda a manter o time motivado ao perceber que a liderança está próxima e gostando do que está sendo desenvolvido e da forma com que está sendo desenvolvido.
+
+# Preparação de sucessores
+Um primeiro passo para pensar em como preparar sucessores se dá na definição de quais competências são necessárias para desenvolver o seu papel atual, por exemplo: 
+- Capacidade de realizar uma liderança democrática
+- Equilíbrio emocional e maturidade
+- Capacidade de realizar feedbacks
+- Visão sistêmica e holística
+- Trânsito entre os pares e os pares do seu superior
+- Capacidade de comunicação
+- Aderência aos valores da empresa
+
+Essas competências a cima são válidas para boa parte dos cargos de liderança, cabendo descrever com detalhe como que cada empresa espera que essa competência deva ser exercida em cada nível de liderança.
+
+Um segundo passo é avaliar o nível de prontidão de cada um dos possíveis candidatos, para isso é posssível observar alguns pontos como:
+- Ele está pronto para assumir as atribuições e responsabilidades do próximo nível?
+- Será uma pessoa aceita como líder legitimo pela equipe?
+- Tem condições plenas para construir e conduzir parcerias internas e externas do próximo nível?
+- Tem condições de agregar valor à companhia ao assumir o próximo nível?
+
+## Dicas para o processo sucessório
+Uma das melhores formas de criar um processo saudável, é a capacitação constante de todos os possíveis candidatos a suceder um determinado gestor, criando assim um pool de opções de possíveis sucessores. 
+
+Claro que isso gera um segundo desafio de como lidar com as frustrações no momento em que essas pessoas não são promovidas ao cargo esperado. 
+
+Porém ao ter um processo transparente e claro, com avaliação de desempenho bem definida, começa a trazer alguns argumentos para lidar com a frustração. 
+
+Outra opção é de que aquele profissional se bem preparado para realizar a gestão, ele não necessariamente precisa suceder seu chefe imediato, ele pode assumir uma posição de gestão em outro time, abrindo assim uma maior gama de possibilidades para cada possível talento.
+
+A não divulgação do mapa sucessório ajuda a não fomentar uma competição entre as pessoas, o ideal é preparar as pessoas para níveis superiores, mas sem deixar claro qual o nível e nem qual o prazo, pois com isso cada pessoa entende o seu momento e não aumenta os níveis de competição ou de possíveis sabotagens entre si.
+
+Para a construção do processo é extremamente importante que haja um identificação com a estratégia da empresa, que a alta gestão esteja alinhada com o processo, conseguir alinhar as necessidades da empresa com a dos colaboradores. 
 
 # Avaliação de desempenho
 
