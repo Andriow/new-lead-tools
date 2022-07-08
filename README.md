@@ -91,7 +91,7 @@ Para a avaliação técnica venho tentando uma série de alternativas:
 
 A Reunião individual com cada liderado é uma ferramenta extremamente poderosa para criar a relação entre o líder e os liderados, pois é o momento em que irá permitir que o líder ajude o liderado em direcionamentos de carreira, e ajude a moldar capacidades comportamentais. 
 
-Normalmente algo entre 20 a 40 minutos semanalmente pode ser suficiente, porém é importante validar junto ao time e testar várias configurações de duração até encontrar algo que seja ótimo. Lembrando que também pessoas diferentes tem necessidades de tempos diferentes individuais, é sempre importante ajustar de acordo com a necessidade de cada um.
+Normalmente algo entre 20 e 40 minutos semanalmente pode ser suficiente, porém é importante validar junto ao time e testar várias configurações de duração até encontrar algo que seja ótimo. Lembrando que também pessoas diferentes tem necessidades de tempos diferentes individuais, é sempre importante ajustar de acordo com a necessidade de cada um.
 
 Outro ponto é saber ponderar entre questionamentos reflexivos e questionamentos situacionais, as ferramentas reflexivas são muito poderosas, mas se forem utilizadas de forma muito frequente, pode desanimar o liderado.
 ## Pergunta reflexivas
@@ -201,9 +201,9 @@ Uma forma simples de fazer isso é começar com o liderado dentro da reunião in
 
 Algumas perguntas para guiar a conversa:
 
-- O que você considera como sucesso no seu ambito pessoal?
+- O que você considera como sucesso no seu âmbito pessoal?
 - O que você considera como sucesso na sua posição de trabalho atual? 
-- Como você definiria que sua carreira foi bem sucedida? 
+- Como você definiria que sua carreira foi bem-sucedida? 
 - O que você acredita que seria sucesso para o time em que você está envolvido hoje?
 - O que você acredita que seria sucesso para a empresa como um todo? 
 
@@ -248,7 +248,7 @@ O papel do líder nessa dinâmica é de após todos responderem à questão, dem
 ## Spotify health check
 É uma ferramenta simples e divertida, desenvolvida pelo spotify e utilizada por várias outras gigantes da tecnologia. O objetivo dela é criar um panorama macro da saúde da equipe, levantar algumas ações e responsáveis por cada ação. Você poderá substituir facilmente sua retrospectiva tradicional por esta ferramenta.
 
-Para mais informações sobre essa dinâmica podem acessar o site do qual extraí o texto a cima, [Zup - Spotify Health Check](https://www.zup.com.br/blog/health-check-saude-da-sua-equipe), ou no próprio [post em que o Spotify tornou a ferramenta pública](https://engineering.atspotify.com/2014/09/16/squad-health-check-model/).
+Para mais informações sobre essa dinâmica podem acessar o site do qual extraí o texto acima, [Zup - Spotify Health Check](https://www.zup.com.br/blog/health-check-saude-da-sua-equipe), ou no próprio [post em que o Spotify tornou a ferramenta pública](https://engineering.atspotify.com/2014/09/16/squad-health-check-model/).
 ## Mapeamento do projeto VUCA
 O mundo está cada vez mais VUCA, que é o acrônimo de Volatility Uncertanty Complexity and Ambiquity. E parte importante do processo de trabalho é entender o que da nossa realidade e do nosso dia a dia está dentro dessas 4 palavras. Então nesse ponto é interessante realizar uma tarefa de mapeamento, e entender a visão de todos do time sobre essas questões que englobam os quatro fatores citados inicialmente:
 - Volatilidade 
@@ -281,7 +281,7 @@ Uma adaptação para utilização no ambiente remoto pode ser com a lista de nec
 
 ![](img/grok2.png)
 
-Na qual cada pessoa na sua rodada irá escolher uma necessidade e realizar a dinâmica indicada a cima, em que os outros participantes tem um tempo para tentar adivinhar qual a necessidade do colega. É interessante também ter um timebox de no máximo 10 minutos por rodada para que seja controlado o tempo total da dinâmica.
+Na qual cada pessoa na sua rodada irá escolher uma necessidade e realizar a dinâmica indicada acima, em que os outros participantes tem um tempo para tentar adivinhar qual a necessidade do colega. É interessante também ter um timebox de no máximo 10 minutos por rodada para que seja controlado o tempo total da dinâmica.
 
 ## BIG T
 Atualmente tem se falado muito do profissional em T, em que o profissional ao mesmo tempo é generalista em uma série de assuntos, porém é especialista em um determinado grupo de assuntos. Existem vários sites que falam a respeito desse tipo de profissional, como [esse artivo da Zendesk](https://www.zendesk.com.br/blog/t-shaped-professional/) e [este da Draft](https://www.projetodraft.com/verbete-draft-o-que-e-profissional-t-shaped/).
@@ -301,12 +301,12 @@ Como uma forma de aumentar o respeito e engajamento dentro do time, é possível
 
 Como é um ciclo de feedbacks positivos, a provocação é de pensarmos em uma situação em que aquela pessoa teve um destaque, demonstrar qual tarefa foi realizada, qual ação dessa pessoa que teve maior relevância no cumprimento da tarefa e qual foi o resultado obtido pela tarefa.
 
-É importante salientar que o resultado obtido pode não ser apenas algo do dia a dia de trabalho, mas se algo gereou maior reconhecimento para o time, ou se em algum momento alguém se sentiu acolhido, se alguém se sentiu defendido, ou qualquer outro sentimento, essa situação também pode ser citada como um feedback, afinal sempre é bom saber que fez o bem a outra pessoa.
+É importante salientar que o resultado obtido pode não ser apenas algo do dia a dia de trabalho, mas se algo gerou maior reconhecimento para o time, ou se em algum momento alguém se sentiu acolhido, se alguém se sentiu defendido, ou qualquer outro sentimento, essa situação também pode ser citada como um feedback, afinal sempre é bom saber que fez o bem a outra pessoa.
 
 ## Protagonismo dentro do time
 Uma vez realizada a tarefa de [Desenvolvimento de protagonismo](#desenvolvimento-de-protagonismo) realizado de maneira individual, é possível trazer para o grupo uma dinâmica bacana.
 
-Nessa dinâmica cada pessoa trás a sua definição de o que é ser um protagonista dentro do time. 
+Nessa dinâmica cada pessoa traz a sua definição de o que é ser um protagonista dentro do time. 
 
 Em um segundo momento solicitar para que cada pessoa extraia palavras chaves que definam protagonismo com base em todas as definições, e para finalizar essa parte da dinâmica realizar uma votação para definir quais são as três palavras chaves que mais definem protagonismo para aquele time. 
 
@@ -379,9 +379,9 @@ Um primeiro passo para pensar em como preparar sucessores se dá na definição 
 - Capacidade de comunicação
 - Aderência aos valores da empresa
 
-Essas competências a cima são válidas para boa parte dos cargos de liderança, cabendo descrever com detalhe como que cada empresa espera que essa competência deva ser exercida em cada nível de liderança.
+Essas competências acima são válidas para boa parte dos cargos de liderança, cabendo descrever com detalhe como que cada empresa espera que essa competência deva ser exercida em cada nível de liderança.
 
-Um segundo passo é avaliar o nível de prontidão de cada um dos possíveis candidatos, para isso é posssível observar alguns pontos como:
+Um segundo passo é avaliar o nível de prontidão de cada um dos possíveis candidatos, para isso é possível observar alguns pontos como:
 - Ele está pronto para assumir as atribuições e responsabilidades do próximo nível?
 - Será uma pessoa aceita como líder legitimo pela equipe?
 - Tem condições plenas para construir e conduzir parcerias internas e externas do próximo nível?
@@ -394,11 +394,11 @@ Claro que isso gera um segundo desafio de como lidar com as frustrações no mom
 
 Porém ao ter um processo transparente e claro, com avaliação de desempenho bem definida, começa a trazer alguns argumentos para lidar com a frustração. 
 
-Outra opção é de que aquele profissional se bem preparado para realizar a gestão, ele não necessariamente precisa suceder seu chefe imediato, ele pode assumir uma posição de gestão em outro time, abrindo assim uma maior gama de possibilidades para cada possível talento.
+Outra opção é de que aquele profissional se bem-preparado para realizar a gestão, ele não necessariamente precisa suceder seu chefe imediato, ele pode assumir uma posição de gestão em outro time, abrindo assim uma maior gama de possibilidades para cada possível talento.
 
 A não divulgação do mapa sucessório ajuda a não fomentar uma competição entre as pessoas, o ideal é preparar as pessoas para níveis superiores, mas sem deixar claro qual o nível e nem qual o prazo, pois com isso cada pessoa entende o seu momento e não aumenta os níveis de competição ou de possíveis sabotagens entre si.
 
-Para a construção do processo é extremamente importante que haja um identificação com a estratégia da empresa, que a alta gestão esteja alinhada com o processo, conseguir alinhar as necessidades da empresa com a dos colaboradores. 
+Para a construção do processo é extremamente importante que haja uma identificação com a estratégia da empresa, que a alta gestão esteja alinhada com o processo, conseguir alinhar as necessidades da empresa com a dos colaboradores. 
 
 # Avaliação de desempenho
 
